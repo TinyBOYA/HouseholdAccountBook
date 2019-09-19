@@ -1,2 +1,2 @@
 # HouseholdAccountBook
-Household Account Book--SpreadSheet × GAS × Google Form--
+Household Account Book-SpreadSheet-GAS-Google Form-
